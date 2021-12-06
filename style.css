@@ -1,0 +1,61 @@
+body
+{
+  color: white;
+  background: rgb(238, 161, 186);
+  background-image: url(https://render.fineartamerica.com/images/rendered/default/greeting-card/images/artworkimages/medium/2/pastel-curvy-rainbow-gradient-kelsey-lovelle.jpg?&targetx=0&targety=-100&imagewidth=700&imageheight=700&modelwidth=700&modelheight=500&backgroundcolor=FCF286&orientation=0);
+  background-size: cover;
+  background-position:center;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 25px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  color: blue;
+  font-family: comic sans ms;
+}
+label{
+  font-size: 20px;
+  background-color: rgb(255, 134, 90);
+  color: rebeccapurple;
+  padding: 10px;
+  border-radius: 10px;
+}
+button{
+  height: 50px;
+  font-size: 20px;
+  color: red;
+  font-family: Comic Sans ms;
+  border-radius: 10px;
+  padding: 10px;
+}
+p{
+    font-size: 25px;
+    color: rgb(236, 6, 229);
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button{
+    font-size: 20px;
+}
